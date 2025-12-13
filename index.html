@@ -541,9 +541,15 @@
           ? (item.description_ja || item.description || '')
           : (item.description || '');
         const fallbackIcon = categoryIcons[item.category] || '📁';
-        const iconHtml = item.icon_url
-          ? `<img src="${item.icon_url}" alt="" onerror="this.parentElement.innerHTML='${fallbackIcon}'">`
-          : fallbackIcon;
+
+        // Generate favicon URL from domain
+        let faviconUrl = null;
+        try {
+          const domain = new URL(item.address).hostname;
+          faviconUrl = `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
+        } catch (e) {}
+
+        const iconId = `icon-${item.category}-${item.key}`.replace(/[^a-zA-Z0-9-]/g, '_');
 
         let authorHtml = '';
         if (item.author_name && item.author_name.length > 0 && item.author_name[0] !== '') {
@@ -556,7 +562,7 @@
 
         card.innerHTML = `
           <div class="card-header">
-            <div class="card-icon">${iconHtml}</div>
+            <div class="card-icon" id="${iconId}" data-favicon="${faviconUrl || ''}" data-fallback="${fallbackIcon}">${fallbackIcon}</div>
             <div class="card-title-section">
               <a href="${item.address}" class="card-title" target="_blank" title="${name}">${name}</a>
               <div class="card-category">${categoryNames[item.category] || item.category}</div>
@@ -569,6 +575,29 @@
         `;
 
         grid.appendChild(card);
+      });
+
+      // Load favicons lazily
+      loadFavicons();
+    }
+
+    function loadFavicons() {
+      const icons = document.querySelectorAll('.card-icon[data-favicon]');
+      icons.forEach(iconEl => {
+        const faviconUrl = iconEl.dataset.favicon;
+        const fallback = iconEl.dataset.fallback;
+        if (!faviconUrl) return;
+
+        const img = new Image();
+        img.onload = () => {
+          iconEl.innerHTML = '';
+          iconEl.appendChild(img);
+        };
+        img.onerror = () => {
+          iconEl.innerHTML = fallback;
+        };
+        img.src = faviconUrl;
+        img.alt = '';
       });
     }
 
