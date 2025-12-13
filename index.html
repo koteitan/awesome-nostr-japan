@@ -417,6 +417,33 @@
     let currentCategory = 'all';
     let currentLanguage = 'ja';
 
+    // Escape HTML special characters to prevent XSS
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    // Validate URL to prevent javascript: and other dangerous schemes
+    function isSafeUrl(url) {
+      if (!url) return false;
+      try {
+        const parsed = new URL(url);
+        return ['http:', 'https:', 'wss:', 'ws:'].includes(parsed.protocol);
+      } catch (e) {
+        return false;
+      }
+    }
+
+    // Get safe href or return '#'
+    function safeHref(url) {
+      return isSafeUrl(url) ? escapeHtml(url) : '#';
+    }
+
     async function loadData() {
       try {
         const response = await fetch('data.json');
@@ -467,7 +494,7 @@
         const li = document.createElement('li');
         li.className = 'category-item';
         li.dataset.category = key;
-        li.innerHTML = `${categoryIcons[key] || '📁'} ${categoryNames[key] || key} <span class="count">${count}</span>`;
+        li.innerHTML = `${categoryIcons[key] || '📁'} ${escapeHtml(categoryNames[key] || key)} <span class="count">${count}</span>`;
         li.addEventListener('click', () => selectCategory(key));
         list.appendChild(li);
       }
@@ -544,31 +571,38 @@
 
         // Generate favicon URL from domain
         let faviconUrl = null;
-        try {
-          const domain = new URL(item.address).hostname;
-          faviconUrl = `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
-        } catch (e) {}
+        if (isSafeUrl(item.address)) {
+          try {
+            const domain = new URL(item.address).hostname;
+            faviconUrl = `https://www.google.com/s2/favicons?domain=${encodeURIComponent(domain)}&sz=64`;
+          } catch (e) {}
+        }
 
         const iconId = `icon-${item.category}-${item.key}`.replace(/[^a-zA-Z0-9-]/g, '_');
 
         let authorHtml = '';
         if (item.author_name && item.author_name.length > 0 && item.author_name[0] !== '') {
-          const authors = item.author_name.map((name, i) => {
+          const authors = item.author_name.map((authorName, i) => {
             const url = item.author_url && item.author_url[i];
-            return url ? `<a href="${url}" target="_blank">${name}</a>` : name;
+            const escapedName = escapeHtml(authorName);
+            return url && isSafeUrl(url) ? `<a href="${safeHref(url)}" target="_blank">${escapedName}</a>` : escapedName;
           }).join(', ');
           authorHtml = `<div class="card-author">by ${authors}</div>`;
         }
 
+        const escapedName = escapeHtml(name);
+        const escapedDesc = escapeHtml(desc) || 'No description';
+        const escapedFaviconUrl = escapeHtml(faviconUrl || '');
+
         card.innerHTML = `
           <div class="card-header">
-            <div class="card-icon" id="${iconId}" data-favicon="${faviconUrl || ''}" data-fallback="${fallbackIcon}">${fallbackIcon}</div>
+            <div class="card-icon" id="${iconId}" data-favicon="${escapedFaviconUrl}" data-fallback="${fallbackIcon}">${fallbackIcon}</div>
             <div class="card-title-section">
-              <a href="${item.address}" class="card-title" target="_blank" title="${name}">${name}</a>
-              <div class="card-category">${categoryNames[item.category] || item.category}</div>
+              <a href="${safeHref(item.address)}" class="card-title" target="_blank" title="${escapedName}">${escapedName}</a>
+              <div class="card-category">${escapeHtml(categoryNames[item.category] || item.category)}</div>
             </div>
           </div>
-          <div class="card-description">${desc || 'No description'}</div>
+          <div class="card-description">${escapedDesc}</div>
           <div class="card-footer">
             ${authorHtml}
           </div>
