@@ -362,15 +362,32 @@
   </div>
 
   <script>
+    const categoryOrder = [
+      'WebClients',
+      'CLIClients',
+      'WindowsClients',
+      'WebServices',
+      'Tools',
+      'Bots',
+      'Relays',
+      'RelayImplementations',
+      'Libraries',
+      'BooksArticles',
+      'BlogEntries',
+      'Slides',
+      'Videos',
+      'Events'
+    ];
+
     const categoryIcons = {
-      'Relays': '🔌',
-      'WebServices': '🌐',
       'WebClients': '💻',
       'CLIClients': '⌨️',
       'WindowsClients': '🪟',
-      'RelayImplementations': '⚙️',
+      'WebServices': '🌐',
       'Tools': '🔧',
       'Bots': '🤖',
+      'Relays': '🔌',
+      'RelayImplementations': '⚙️',
       'Libraries': '📚',
       'BooksArticles': '📖',
       'BlogEntries': '📝',
@@ -380,14 +397,14 @@
     };
 
     const categoryNames = {
-      'Relays': 'Relays',
-      'WebServices': 'Web Services',
       'WebClients': 'Web Clients',
       'CLIClients': 'CLI Clients',
       'WindowsClients': 'Windows Clients',
-      'RelayImplementations': 'Relay Implementations',
+      'WebServices': 'Web Services',
       'Tools': 'Tools',
       'Bots': 'Bots',
+      'Relays': 'Relays',
+      'RelayImplementations': 'Relay Implementations',
       'Libraries': 'Libraries',
       'BooksArticles': 'Books/Articles',
       'BlogEntries': 'Blog Entries',
@@ -444,8 +461,9 @@
       list.innerHTML = '';
       list.appendChild(existingAll);
 
-      for (const [key, count] of Object.entries(counts)) {
-        if (count === 0) continue;
+      for (const key of categoryOrder) {
+        const count = counts[key];
+        if (!count || count === 0) continue;
         const li = document.createElement('li');
         li.className = 'category-item';
         li.dataset.category = key;
