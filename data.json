@@ -235,7 +235,8 @@
       ],
       "author_url": [
         "https://github.com/akiomik"
-      ]
+      ],
+      "icon_url": "https://nostrends.vercel.app/favicon.png"
     },
     "nostrbuzzs": {
       "name": "nostrbuzzs",
@@ -247,7 +248,8 @@
       ],
       "author_url": [
         "https://github.com/darashi"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=nostrbuzzs.deno.dev&sz=64"
     },
     "nosutora": {
       "name": "nosutora",
@@ -259,7 +261,8 @@
       ],
       "author_url": [
         "https://njump.me/piyo@nosutora.com"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=nosutora.com&sz=64"
     },
     "nostr-post-checker": {
       "name": "nostr-post-checker",
@@ -271,7 +274,8 @@
       ],
       "author_url": [
         "https://github.com/koteitan"
-      ]
+      ],
+      "icon_url": "https://koteitan.github.io/favicon.ico"
     },
     "Nosli": {
       "name": "Nosli",
@@ -283,7 +287,8 @@
       ],
       "author_url": [
         "https://github.com/akiomik"
-      ]
+      ],
+      "icon_url": "https://nosli.vercel.app/favicon.png"
     },
     "nostr-picker": {
       "name": "nostr-picker",
@@ -295,7 +300,8 @@
       ],
       "author_url": [
         "https://github.com/penpenpng"
-      ]
+      ],
+      "icon_url": "https://penpenpng.github.io/nostr-picker/vite.svg"
     },
     "nostradio": {
       "name": "Nostr村放送局(nostradio)",
@@ -307,7 +313,8 @@
       ],
       "author_url": [
         "https://github.com/darashi"
-      ]
+      ],
+      "icon_url": "https://nostradio.deno.dev/favicon.ico"
     },
     "murasaki": {
       "name": "murasaki",
@@ -319,7 +326,8 @@
       ],
       "author_url": [
         "https://github.com/darashi"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "Speaking_nostrs_post_on_web_radio_by_murasaki": {
       "name": "Speaking nostr's post on web radio by murasaki",
@@ -331,7 +339,8 @@
       ],
       "author_url": [
         "https://nostx.shino3.net/npub15w7wp9wdp6p53vy5eysph5xryu82ltmc7am9zl6pqyexmt6ukllst6ddy2"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=ik1-219-79732.vs.sakura.ne.jp:5000&sz=64"
     },
     "Nosaray": {
       "name": "Nosaray",
@@ -343,7 +352,8 @@
       ],
       "author_url": [
         "https://github.com/jiftechnify"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "nostr-notes-duplicate": {
       "name": "nostr-notes-duplicate",
@@ -355,7 +365,8 @@
       ],
       "author_url": [
         "https://github.com/imksoo"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=nostrlogs-relay-jp.nostr.wirednet.jp&sz=64"
     },
     "nostrlogs": {
       "name": "nostrlogs",
@@ -367,7 +378,8 @@
       ],
       "author_url": [
         "https://github.com/imksoo"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=nostrlogs-relay-jp.nostr.wirednet.jp&sz=64"
     },
     "NostrFlu": {
       "name": "NostrFlu",
@@ -379,7 +391,8 @@
       ],
       "author_url": [
         "https://github.com/heguro"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=heguro.github.io&sz=64"
     },
     "NosTx": {
       "name": "NosTx",
@@ -391,7 +404,8 @@
       ],
       "author_url": [
         "https://github.com/ShinoharaTa/Nostx"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "Nostr_search_portal": {
       "name": "Nostr search portal",
@@ -403,7 +417,8 @@
       ],
       "author_url": [
         "https://njump.me/hoku@nostr.hoku.in"
-      ]
+      ],
+      "icon_url": "https://nostr.hoku.in/favicon.png"
     },
     "illust_tagged_notes_on_Nostr": {
       "name": "#illust tagged notes on Nostr",
@@ -415,7 +430,8 @@
       ],
       "author_url": [
         "https://github.com/murakmii"
-      ]
+      ],
+      "icon_url": "https://nostr-illust.vercel.app/favicon.ico"
     },
     "BBS_on_Nostr": {
       "name": "BBS on Nostr",
@@ -427,7 +443,8 @@
       ],
       "author_url": [
         "https://github.com/murakmii"
-      ]
+      ],
+      "icon_url": "https://bbs-on-nostr.vercel.app/favicon.ico"
     },
     "nostrbbs": {
       "name": "nostrbbs",
@@ -439,7 +456,8 @@
       ],
       "author_url": [
         "https://github.com/ikeji"
-      ]
+      ],
+      "icon_url": "https://test.ikeji.ma/nostrbbs/favicon.ico"
     },
     "nostr-reversi": {
       "name": "nostr-reversi",
@@ -451,7 +469,8 @@
       ],
       "author_url": [
         "https://github.com/studiokaiji"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "shotr": {
       "name": "shotr",
@@ -463,7 +482,8 @@
       ],
       "author_url": [
         "https://github.com/ocknamo"
-      ]
+      ],
+      "icon_url": "https://6or.cc/icon.svg"
     },
     "nostr-hottrr": {
       "name": "野州田川水系 定点観測所",
@@ -475,7 +495,8 @@
       ],
       "author_url": [
         "https://github.com/ShinoharaTa"
-      ]
+      ],
+      "icon_url": "https://nostr-hotter-site.vercel.app/favicon.ico"
     },
     "nosey": {
       "name": "nosey",
@@ -487,7 +508,8 @@
       ],
       "author_url": [
         "https://github.com/akiomik"
-      ]
+      ],
+      "icon_url": "https://nosey.vercel.app/favicon.svg"
     },
     "nostr.json generator": {
       "name": "nostr.json generator",
@@ -499,7 +521,8 @@
       ],
       "author_url": [
         "https://github.com/SnowCait"
-      ]
+      ],
+      "icon_url": "https://snowcait.github.io/nostr-json-generator/favicon.png"
     },
     "findmine": {
       "name": "findmine",
@@ -511,7 +534,8 @@
       ],
       "author_url": [
         "https://github.com/koteitan"
-      ]
+      ],
+      "icon_url": "https://koteitan.github.io/favicon.ico"
     },
     "nostr-bookmark-trend": {
       "name": "nostr-bookmark-trend",
@@ -523,7 +547,8 @@
       ],
       "author_url": [
         "https://github.com/nikolat"
-      ]
+      ],
+      "icon_url": "https://nikolat.github.io/nostr-bookmark-trend/favicon.png"
     },
     "NostViewstr": {
       "name": "NostViewstr",
@@ -535,7 +560,8 @@
       ],
       "author_url": [
         "https://github.com/TsukemonoGit"
-      ]
+      ],
+      "icon_url": "https://nostviewstr.vercel.app/favicon.png"
     },
     "Luminostr": {
       "name": "Luminostr",
@@ -547,7 +573,8 @@
       ],
       "author_url": [
         "https://github.com/TsukemonoGit"
-      ]
+      ],
+      "icon_url": "https://tsukemonogit.github.io/luminostr/favicon.svg"
     },
     "zapline-jp": {
       "name": "Zapline-JP",
@@ -559,7 +586,8 @@
       ],
       "author_url": [
         "https://github.com/tiltpapa"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=tiltpapa.github.io&sz=64"
     },
     "MAKIBISHI": {
       "name": "MAKIBISHI",
@@ -571,7 +599,8 @@
       ],
       "author_url": [
         "https://github.com/nikolat"
-      ]
+      ],
+      "icon_url": "https://nikolat.github.io/makibishi/favicon.png"
     },
     "nostr-hours": {
       "name": "Nostr hours",
@@ -583,7 +612,8 @@
       ],
       "author_url": [
         "https://github.com/SnowCait"
-      ]
+      ],
+      "icon_url": "https://snowcait.github.io/nostr-hours/favicon.png"
     },
     "chiihou": {
       "name": "地鳳",
@@ -595,7 +625,8 @@
       ],
       "author_url": [
         "https://github.com/nikolat"
-      ]
+      ],
+      "icon_url": "https://nikolat.github.io/chiihou/favicon.png"
     },
     "NFO": {
       "name": "Nostr Follow Organizer",
@@ -607,7 +638,8 @@
       ],
       "author_url": [
         "https://github.com/TsukemonoGit"
-      ]
+      ],
+      "icon_url": "https://tsukemonogit.github.io/NFO/favicon.svg"
     },
     "nostr-share": {
       "name": "nostr-share-component",
@@ -619,7 +651,8 @@
       ],
       "author_url": [
         "https://github.com/TsukemonoGit"
-      ]
+      ],
+      "icon_url": "https://tsukemonogit.github.io/nostr-share-component/vite.svg"
     },
     "makimono": {
       "name": "MAKIMONO",
@@ -631,7 +664,8 @@
       ],
       "author_url": [
         "https://github.com/TsukemonoGit"
-      ]
+      ],
+      "icon_url": "https://makimono.lumilumi.app/favicon3.png"
     },
     "kuchiyose": {
       "name": "KUCHIYOSE",
@@ -643,7 +677,8 @@
       ],
       "author_url": [
         "https://github.com/nikolat"
-      ]
+      ],
+      "icon_url": "https://kuchiyose.vercel.app/favicon.png"
     }
   },
   "WebClients": {
@@ -658,7 +693,8 @@
       ],
       "author_url": [
         "https://github.com/SnowCait"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=nostter.vercel.app&sz=64"
     },
     "Rabbit": {
       "name": "Rabbit",
@@ -670,7 +706,8 @@
       ],
       "author_url": [
         "https://github.com/syusui-s"
-      ]
+      ],
+      "icon_url": "https://rabbit.syusui.net/images/rabbit_256.png"
     },
     "Astraea": {
       "name": "Astraea",
@@ -682,7 +719,8 @@
       ],
       "author_url": [
         "https://njump.me/mouse_484@mousedev.page"
-      ]
+      ],
+      "icon_url": "https://astraea.mousedev.page/icon.png"
     },
     "lumilumi": {
       "name": "Lumilumi",
@@ -694,7 +732,8 @@
       ],
       "author_url": [
         "https://github.com/TsukemonoGit"
-      ]
+      ],
+      "icon_url": "https://lumilumi.app/favicon.ico"
     },
     "Nos_Haiku": {
       "name": "Nos Haiku",
@@ -706,7 +745,8 @@
       ],
       "author_url": [
         "https://github.com/nikolat"
-      ]
+      ],
+      "icon_url": "https://nos-haiku.vercel.app/favicon.png"
     },
     "Nostr_Feeds_from_relay-jp_nostr_wirednet_jp": {
       "name": "Nostr Feeds from relay-jp.nostr.wirednet.jp. (のぞき窓/Nozokimado)",
@@ -718,7 +758,8 @@
       ],
       "author_url": [
         "https://github.com/imksoo"
-      ]
+      ],
+      "icon_url": "https://relay-jp.nostr.wirednet.jp/favicon.ico"
     },
     "GARNET": {
       "name": "GARNET",
@@ -730,7 +771,8 @@
       ],
       "author_url": [
         "https://github.com/murakmii"
-      ]
+      ],
+      "icon_url": "https://garnet.nostrian.net/favicon.png"
     },
     "Unyu_house": {
       "name": "うにゅうハウス",
@@ -742,7 +784,8 @@
       ],
       "author_url": [
         "https://github.com/nikolat"
-      ]
+      ],
+      "icon_url": "https://unyu-house.vercel.app/favicon.png"
     },
     "nos_today": {
       "name": "nos.today",
@@ -754,7 +797,8 @@
       ],
       "author_url": [
         "https://github.com/darashi"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=nos.today&sz=64"
     },
     "Nostr_playground": {
       "name": "Nostr playground",
@@ -766,7 +810,8 @@
       ],
       "author_url": [
         "https://github.com/SnowCait"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=snowcait.github.io&sz=64"
     },
     "Angolmois": {
       "name": "Angolmois",
@@ -778,7 +823,8 @@
       ],
       "author_url": [
         "https://github.com/nikolat"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "vscode-nostr-client": {
       "name": "vscode-nostr-client",
@@ -790,7 +836,8 @@
       ],
       "author_url": [
         "https://github.com/jiftechnify"
-      ]
+      ],
+      "icon_url": "https://marketplace.visualstudio.com/favicon.ico"
     },
     "nostatus": {
       "name": "nostatus",
@@ -802,7 +849,8 @@
       ],
       "author_url": [
         "https://github.com/jiftechnify"
-      ]
+      ],
+      "icon_url": "https://nostatus.vercel.app/favicon.ico"
     }
   },
   "CLIClients": {
@@ -817,7 +865,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "nostk": {
       "name": "nostk",
@@ -829,7 +878,8 @@
       ],
       "author_url": [
         "https://github.com/mitsugu"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "nosp": {
       "name": "nosp",
@@ -841,7 +891,8 @@
       ],
       "author_url": [
         "https://github.com/mitsugu"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
     },
     "nosdump": {
       "name": "nosdump",
@@ -853,7 +904,8 @@
       ],
       "author_url": [
         "https://github.com/jiftechnify"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "nostui": {
       "name": "nostui",
@@ -865,7 +917,8 @@
       ],
       "author_url": [
         "https://github.com/akiomik"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     }
   },
   "WindowsClients": {
@@ -880,7 +933,8 @@
       ],
       "author_url": [
         "https://github.com/betonetojp"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "noka": {
       "name": "noka",
@@ -892,7 +946,8 @@
       ],
       "author_url": [
         "https://github.com/betonetojp"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "nostalk": {
       "name": "nostalk",
@@ -904,7 +959,8 @@
       ],
       "author_url": [
         "https://github.com/nikolat"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     }
   },
   "RelayImplementations": {
@@ -919,7 +975,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "searchnos": {
       "name": "searchnos",
@@ -931,7 +988,8 @@
       ],
       "author_url": [
         "https://github.com/darashi"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "cagliostr": {
       "name": "cagliostr",
@@ -943,7 +1001,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "zig-nostr-relay": {
       "name": "zig-nostr-relay",
@@ -955,7 +1014,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     }
   },
   "Tools": {
@@ -970,7 +1030,8 @@
       ],
       "author_url": [
         "https://github.com/susumuota"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "share-on-nostr": {
       "name": "share-on-nostr",
@@ -982,7 +1043,8 @@
       ],
       "author_url": [
         "https://github.com/penpenpng"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "nake": {
       "name": "nake",
@@ -994,7 +1056,8 @@
       ],
       "author_url": [
         "https://github.com/TsukemonoGit"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "danmakustr": {
       "name": "danmakustr",
@@ -1006,7 +1069,8 @@
       ],
       "author_url": [
         "https://github.com/CodyTseng"
-      ]
+      ],
+      "icon_url": "https://ssl.gstatic.com/chrome/webstore/images/icon_48px.png"
     }
   },
   "Bots": {
@@ -1021,7 +1085,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=njump.me&sz=64"
     },
     "markovbot": {
       "name": "markovbot",
@@ -1033,7 +1098,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=njump.me&sz=64"
     },
     "golang_news": {
       "name": "golang_news",
@@ -1045,7 +1111,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=njump.me&sz=64"
     },
     "nips_changes": {
       "name": "nips_changes",
@@ -1057,7 +1124,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=njump.me&sz=64"
     },
     "makeitquote": {
       "name": "makeitquote",
@@ -1069,7 +1137,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=njump.me&sz=64"
     },
     "nullpoga": {
       "name": "nullpoga",
@@ -1081,7 +1150,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "mahjong": {
       "name": "mahjong",
@@ -1093,7 +1163,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "namazu": {
       "name": "EEWなまずくん予報",
@@ -1105,7 +1176,8 @@
       ],
       "author_url": [
         "https://njump.me/matsuu@matsuu.org"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=njump.me&sz=64"
     },
     "Nostify": {
       "name": "Nostify",
@@ -1117,7 +1189,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "Nostr-chan": {
       "name": "Nostr-chan",
@@ -1129,7 +1202,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "Nostrchan": {
       "name": "Nostrchan",
@@ -1141,7 +1215,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "Nostrchan2": {
       "name": "Nostrchan2",
@@ -1153,7 +1228,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "Nostrchan3": {
       "name": "Nostrchan3",
@@ -1165,7 +1241,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "Nostrchan4": {
       "name": "Nostrchan4",
@@ -1177,7 +1254,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "Nostrchan0": {
       "name": "Nostrchan0",
@@ -1189,7 +1267,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "kojiranyan": {
       "name": "kojiranyan",
@@ -1201,7 +1280,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "Nostaro": {
       "name": "Nostaro",
@@ -1213,7 +1293,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "Skyka": {
       "name": "Skyka",
@@ -1225,7 +1306,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "Qchan": {
       "name": "Qchan",
@@ -1237,7 +1319,8 @@
       ],
       "author_url": [
         "https://github.com/kojira"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p": {
       "name": "日本人ユーザー (bot)",
@@ -1249,7 +1332,8 @@
       ],
       "author_url": [
         "https://github.com/SnowCait"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "REQ": {
       "name": "REQ",
@@ -1261,7 +1345,8 @@
       ],
       "author_url": [
         "https://github.com/SnowCait"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "search": {
       "name": "search",
@@ -1273,7 +1358,8 @@
       ],
       "author_url": [
         "https://github.com/SnowCait"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "cnpgirl": {
       "name": "ログボbot",
@@ -1285,7 +1371,8 @@
       ],
       "author_url": [
         "https://nostx.shino3.net/npub17syr9cntr5f03gnhz7mqdxtt4mmgh39khpky5dw2sflkl09l2y0qra94wl"
-      ]
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=njump.me&sz=64"
     },
     "npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7": {
       "name": "じほう",
@@ -1297,7 +1384,8 @@
       ],
       "author_url": [
         "https://github.com/TsukemonoGit"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r": {
       "name": "やぶみちゃん",
@@ -1309,7 +1397,8 @@
       ],
       "author_url": [
         "https://nostx.shino3.net/npub1kurad0nlm8xfuxhws05pcwv5z4k0ea6da4dsjygexr77a666pssqsftsm7"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub1738uh3jagexkr27wyw7pwx2gh8xnrcfk09pxptqf6f6aqwtrf5hq3q0j8s": {
       "name": "へんしんbot",
@@ -1321,7 +1410,8 @@
       ],
       "author_url": [
         "https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub1r25zsj7hcpjqd0yur2ss4t3r0l9h6wavzp6na9vnnjhr87wttp2qmx0zct": {
       "name": "迫るショッカーbot",
@@ -1333,7 +1423,8 @@
       ],
       "author_url": [
         "https://nostx.shino3.net/npub1xgcsn9lkkdake4stk9dz36dpfwkam7lssad8mcjvdyfr5rq7vnxqq2sgy4"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "mochi": {
       "name": "mochi",
@@ -1345,7 +1436,8 @@
       ],
       "author_url": [
         "https://nostx.shino3.net/npub1e4qg56wvd3ehegd8dm7rlgj8cm998myq0ah8e9t5zeqkg7t7s93q750p76"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "Yodogawa-Janken": {
       "name": "Yodogawa-Janken",
@@ -1357,7 +1449,8 @@
       ],
       "author_url": [
         "https://github.com/n0nakamura"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t": {
       "name": "うにゅう",
@@ -1369,7 +1462,8 @@
       ],
       "author_url": [
         "https://github.com/nikolat"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub1d0hysq6tqys54n2v4tdu2zh2f2e758kj9dr4fpgcvz3ps3l8dzmswes3pc": {
       "name": "Scrapbox更新通知(bot)",
@@ -1381,7 +1475,8 @@
       ],
       "author_url": [
         "https://github.com/jiftechnify"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub1cwve0du5w46zetzsqymx6ae5hr7ghyn6xs339e0tpkeft6htm07sm8qm6f": {
       "name": "リプライ連鎖数はかるくん",
@@ -1393,7 +1488,8 @@
       ],
       "author_url": [
         "https://github.com/jiftechnify"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub1vf4huvhkfhgvys2qf4wlmncf855dzd3c6894mw2snktpxzh08vdsgcgkxx": {
       "name": "やる夫bot",
@@ -1405,7 +1501,8 @@
       ],
       "author_url": [
         "https://github.com/Hakkadaikon"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "kojiraBot": {
       "name": "kojiraBot",
@@ -1417,7 +1514,8 @@
       ],
       "author_url": [
         "https://github.com/imksoo/nostr-kojirabot"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub185gk75vh09f9up248pjeqm53r3yvtau4cu82d32t8sxxg4qyxfcqxx3dm7": {
       "name": "ルークさん",
@@ -1429,7 +1527,8 @@
       ],
       "author_url": [
         "https://nostx.shino3.net/npub1dsjzgp8mnpk3sn975t4ea98glecg5d0ahadqyxvv4thdah5eh6ssgwpg5w"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub137u9fh8kaag47zwzd0pt3hfqk3z9petytnele7yu3u2t9jyk4fdsvddmk0": {
       "name": "NIPs 占い",
@@ -1441,7 +1540,8 @@
       ],
       "author_url": [
         "https://github.com/AsaiToshiya"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv": {
       "name": "流速ちゃん",
@@ -1453,7 +1553,8 @@
       ],
       "author_url": [
         "https://github.com/ShinoharaTa"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf": {
       "name": "今日は何の日",
@@ -1465,7 +1566,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://nostx.shino3.net/favicon.png"
     },
     "npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp": {
       "name": "不審者情報",
@@ -1477,7 +1579,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://njump.compile-error.net/njump/static/favicon/profile/apple-touch-icon.png?v=2"
     },
     "npub1cphr4yweqshlwunygag6lqknu0nsvac47yvecjtc0f6zs5j770rs4f8emh": {
       "name": "サイゼガチャ",
@@ -1489,7 +1592,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://njump.compile-error.net/njump/static/favicon/profile/apple-touch-icon.png?v=2"
     },
     "npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl": {
       "name": "Hot Post Ranking",
@@ -1501,7 +1605,8 @@
       ],
       "author_url": [
         "https://github.com/mattn"
-      ]
+      ],
+      "icon_url": "https://njump.compile-error.net/njump/static/favicon/profile/apple-touch-icon.png?v=2"
     },
     "npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv": {
       "name": "iroiroBot",
@@ -1513,7 +1618,8 @@
       ],
       "author_url": [
         "https://github.com/TsukemonoGit"
-      ]
+      ],
+      "icon_url": "https://njump.compile-error.net/njump/static/favicon/profile/apple-touch-icon.png?v=2"
     }
   },
   "Libraries": {
@@ -1528,7 +1634,8 @@
       ],
       "author_url": [
         "https://github.com/jiftechnify"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "rx-nostr": {
       "name": "rx-nostr",
@@ -1540,7 +1647,8 @@
       ],
       "author_url": [
         "https://github.com/penpenpng"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "nostr-mux": {
       "name": "nostr-mux",
@@ -1552,7 +1660,8 @@
       ],
       "author_url": [
         "https://github.com/murakmii"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "nosvelte": {
       "name": "nosvelte",
@@ -1564,7 +1673,8 @@
       ],
       "author_url": [
         "https://github.com/akiomik"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "lophus": {
       "name": "lophus",
@@ -1576,7 +1686,8 @@
       ],
       "author_url": [
         "https://github.com/hasundue"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "n8n-nodes-Nostrobots": {
       "name": "n8n-nodes-Nostrobots",
@@ -1588,7 +1699,8 @@
       ],
       "author_url": [
         "https://github.com/ocknamo"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "nostr-key-value": {
       "name": "nostr-key-value",
@@ -1600,7 +1712,8 @@
       ],
       "author_url": [
         "https://github.com/ShinoharaTa"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     },
     "snow-actions/nostr": {
       "name": "snow-actions/nostr",
@@ -1612,7 +1725,8 @@
       ],
       "author_url": [
         "https://github.com/SnowCait"
-      ]
+      ],
+      "icon_url": "https://github.com/fluidicon.png"
     }
   },
   "BooksArticles": {
@@ -1627,7 +1741,8 @@
       ],
       "author_url": [
         "https://gihyho.jp"
-      ]
+      ],
+      "icon_url": "https://gihyo.jp/GHfavicon.ico"
     },
     "Software_Design_2023_7": {
       "name": "Software Design 2023/7",
@@ -1639,7 +1754,8 @@
       ],
       "author_url": [
         "https://gihyho.jp"
-      ]
+      ],
+      "icon_url": "https://gihyo.jp/GHfavicon.ico"
     },
     "Hello_Nostr": {
       "name": "Hello Nostr! 先住民が教えるNostrの歩き方",
@@ -1651,7 +1767,8 @@
       ],
       "author_url": [
         "https://428lab.net"
-      ]
+      ],
+      "icon_url": "https://techbookfest.org/icon_2x.png"
     },
     "Hello_Nostr_Blueky": {
       "name": "Hello Nostr! Yo Bluesky! 分散SNSの最前線",
@@ -1663,7 +1780,8 @@
       ],
       "author_url": [
         "https://428lab.net"
-      ]
+      ],
+      "icon_url": "https://techbookfest.org/icon_2x.png"
     },
     "nostr_Scrapbox": {
       "name": "nostr Scrapbox",
@@ -1675,7 +1793,8 @@
       ],
       "author_url": [
         ""
-      ]
+      ],
+      "icon_url": "https://scrapbox.io/assets/img/favicon/favicon.ico"
     }
   },
   "BlogEntries": {
@@ -1690,7 +1809,8 @@
       ],
       "author_url": [
         "https://github.com/gpsnmeajp"
-      ]
+      ],
+      "icon_url": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico"
     },
     "Damus_for_Nostr": {
       "name": "Damus (ダムス) for Nostr",
@@ -1702,7 +1822,8 @@
       ],
       "author_url": [
         "https://nostx.shino3.net/npub1wh69w45awqnlsxw7jt5tkymets87h6t4phplkx6ug2ht2qkssswswntjk0"
-      ]
+      ],
+      "icon_url": "https://stacksats.jp/wp-content/uploads/2023/02/cropped-0647343E-31FC-41FF-90C4-24AE1DA7E30C-32x32.png"
     }
   },
   "Slides": {
@@ -1717,7 +1838,8 @@
       ],
       "author_url": [
         "https://github.com/akiomik"
-      ]
+      ],
+      "icon_url": "https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-bdd5839d46040a50edf189174e6f7aacc8abb3aaecd56a4711cf00d820883f47.png"
     },
     "akiomik_about-nosli-and-nip-33": {
       "name": "Nostr版togetterのNosliとNIP-33 / About Nosli and NIP-33",
@@ -1729,7 +1851,8 @@
       ],
       "author_url": [
         "https://github.com/akiomik"
-      ]
+      ],
+      "icon_url": "https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-bdd5839d46040a50edf189174e6f7aacc8abb3aaecd56a4711cf00d820883f47.png"
     },
     "awayukinet_toaruhui-miao-kino-nostr-nole-simikata": {
       "name": "とある絵描きの Nostr の楽しみかた",
@@ -1741,7 +1864,8 @@
       ],
       "author_url": [
         "https://njump.me/awayuki.net"
-      ]
+      ],
+      "icon_url": "https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-bdd5839d46040a50edf189174e6f7aacc8abb3aaecd56a4711cf00d820883f47.png"
     },
     "kappaseijin_nostr-study-meeting-1-by-kappaseijin": {
       "name": "NIP-11a(NIP-111)の要望と変遷",
@@ -1753,7 +1877,8 @@
       ],
       "author_url": [
         "https://njump.me/kappa.seijin.jp"
-      ]
+      ],
+      "icon_url": "https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-bdd5839d46040a50edf189174e6f7aacc8abb3aaecd56a4711cf00d820883f47.png"
     },
     "s_ota_nostr-keyx-20230310": {
       "name": "Passkey Authentication with Nostr (NIP-07, nostr-keyx, YubiKey)",
@@ -1765,7 +1890,8 @@
       ],
       "author_url": [
         "https://github.com/susumuota"
-      ]
+      ],
+      "icon_url": "https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-bdd5839d46040a50edf189174e6f7aacc8abb3aaecd56a4711cf00d820883f47.png"
     }
   },
   "Videos": {
@@ -1780,7 +1906,8 @@
       ],
       "author_url": [
         "https://428lab.net/"
-      ]
+      ],
+      "icon_url": "https://www.youtube.com/s/desktop/beacb38b/img/favicon.ico"
     },
     "nostrstudy_1": {
       "name": "Nostr勉強会#1 (nostrstudy #1)",
@@ -1792,7 +1919,8 @@
       ],
       "author_url": [
         "https://428lab.net/"
-      ]
+      ],
+      "icon_url": "https://www.youtube.com/s/desktop/beacb38b/img/favicon.ico"
     },
     "nostrstudy_2": {
       "name": "Nostr勉強会#2 (nostrstudy #2)",
@@ -1804,7 +1932,8 @@
       ],
       "author_url": [
         "https://428lab.net/"
-      ]
+      ],
+      "icon_url": "https://www.youtube.com/s/desktop/beacb38b/img/favicon.ico"
     },
     "nostrstudy_3": {
       "name": "Nostr勉強会#3 (nostrstudy #3)",
@@ -1816,7 +1945,8 @@
       ],
       "author_url": [
         "https://428lab.net/"
-      ]
+      ],
+      "icon_url": "https://www.youtube.com/s/desktop/beacb38b/img/favicon.ico"
     },
     "nostrstudy_1_public_viewing": {
       "name": "Nostr勉強会#1 [わいがや副音声] (nostrstudy #1 public viewing)",
@@ -1828,7 +1958,8 @@
       ],
       "author_url": [
         "https://www.robo358.com/"
-      ]
+      ],
+      "icon_url": "https://www.youtube.com/s/desktop/beacb38b/img/favicon.ico"
     },
     "nostrstudy_2_public_viewing": {
       "name": "Nostr勉強会#2 [わいがや副音声] (nostrstudy #2 public viewing)",
@@ -1840,7 +1971,8 @@
       ],
       "author_url": [
         "https://www.robo358.com/"
-      ]
+      ],
+      "icon_url": "https://www.youtube.com/s/desktop/beacb38b/img/favicon.ico"
     },
     "nostrstudy_3_public_viewing": {
       "name": "Nostr勉強会#3 [わいがや副音声] (nostrstudy #3 public viewing)",
@@ -1852,7 +1984,8 @@
       ],
       "author_url": [
         "https://www.robo358.com/"
-      ]
+      ],
+      "icon_url": "https://www.youtube.com/s/desktop/beacb38b/img/favicon.ico"
     },
     "event_sns_study_1": {
       "name": "新時代の分散型SNS勉強会",
@@ -1864,7 +1997,8 @@
       ],
       "author_url": [
         "https://428lab.net/"
-      ]
+      ],
+      "icon_url": "https://www.youtube.com/s/desktop/beacb38b/img/favicon.ico"
     }
   },
   "Events": {
@@ -1879,7 +2013,8 @@
       ],
       "author_url": [
         "https://428lab.net/"
-      ]
+      ],
+      "icon_url": "https://connpass.com/static/20251208.39f43c4/img/favicon.ico"
     }
   },
   "License": {
