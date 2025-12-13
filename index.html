@@ -510,6 +510,13 @@
         return true;
       });
 
+      // Sort by category order
+      filtered.sort((a, b) => {
+        const indexA = categoryOrder.indexOf(a.category);
+        const indexB = categoryOrder.indexOf(b.category);
+        return indexA - indexB;
+      });
+
       document.getElementById('resultsInfo').textContent = `${filtered.length} items found`;
 
       const grid = document.getElementById('cardsGrid');
